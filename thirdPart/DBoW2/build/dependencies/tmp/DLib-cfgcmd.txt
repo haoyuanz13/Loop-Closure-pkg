@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=<INSTALL_DIR>;-GUnix Makefiles;/home/haoyuanz/catkin_ws/src/Loop_Closure_pkg/thirdPart/DBoW2/build/dependencies/src/DLib'
